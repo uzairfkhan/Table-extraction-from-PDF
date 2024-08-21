@@ -1,6 +1,6 @@
 # PDF Table Extraction and Excel Export Tool
 
-This tool extracts tables from a specified PDF file and saves them into an Excel file, with each table placed on a separate sheet. The script leverages `pdfplumber` for PDF processing and `pandas` for data handling and exporting.
+Extract tables from a specified PDF file and saves them into an Excel file, with each table placed on a separate sheet. The script leverages `pdfplumber` for PDF processing and `pandas` for data handling and exporting.
 
 ## Prerequisites
 
